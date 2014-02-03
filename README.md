@@ -1,4 +1,4 @@
-hubflow-training
+Hubflow Training
 ================
 
 HubFlow Training
