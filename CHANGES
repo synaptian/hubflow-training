@@ -1,3 +1,15 @@
+Version 0.2.0:
+ - Merge pull request #3 from synaptian/feature/master-blaster
+ - Merge pull request #5 from synaptian/feature/brandon-new-feature
+ - Merge pull request #2 from synaptian/feature/wills-feature
+ - Merge pull request #4 from synaptian/feature/jaime-newfeature
+ - Adding a stupid dog
+ - Test file
+ - Adding test files
+ - mucking about
+ - Merge pull request #1 from synaptian/feature/adding-versioning
+ - executed bumpversion.sh to create initial CHANGES and VERSION files
+
 Version 0.1.0
  - added bumpversion.sh
  - Initial commit
