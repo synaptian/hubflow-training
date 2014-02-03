@@ -1,3 +1,15 @@
+Version 0.2.4:
+ - Merge remote-tracking branch 'origin/develop' into develop
+ - Merging
+ - Merge tag '0.2.0' into develop
+ - Merge branch 'release/0.2.0'
+ - Merge remote-tracking branch 'origin/develop' into develop
+ - Version bump to 0.5.0
+ - Version bump to 0.4.0
+ - Version bump to 0.3.0
+ - Version bump to 0.2.0
+ - Version bump to 0.2.0
+
 Version 0.2.0:
  - Merge pull request #3 from synaptian/feature/master-blaster
  - Merge pull request #5 from synaptian/feature/brandon-new-feature
